@@ -1,0 +1,18 @@
+html {
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(175deg, #cb9bde 50%, #e6ccef 50%);
+}
+
+.box{
+    background-color: white;
+    padding: 5%;
+    text-align: center;
+    border-radius: 5px;
+    margin: 2%
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
